@@ -1,0 +1,5 @@
+Case :
+Sahnede iki araç birbirlerini iterler, amaç rakip aracı kendi sahasına kadar götürmektir. 
+Tap And Hold ile araçların itme güçleri verilen sınırlar dahilinde artar.
+Uzun süre holdda beklersek motor yanar ve fail oluruz bu yüzden belli aralıklarla elimizi çekerek aracı kontrollü tutarız.
+Level Complete olunca kazandığımız Coin'ler ile oyun başlamadan önce motor gücümüzü upgrade ederek daha güçlü rakip araçlar ile oynayabiliriz.
